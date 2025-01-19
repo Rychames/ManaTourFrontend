@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Bar da Zu",
+        "description": "Uma ótima opção para quem quer tocar aquele chop com petiscos. Conta com duas opções de ambientes, um mais fechado e outro ao ar livre. Ótimo lugar para reunir os amigos bater um papo e pedir uns drinks.",
+        "image": "/bares/barDaZu/BARDAZU.png",
+        "gallery": [
+            "/bares/barDaZu/BARDAZU (1).png",
+            "/bares/barDaZu/BARDAZU (2).png",
+            "/bares/barDaZu/BARDAZU (3).png",
+            "/bares/barDaZu/BARDAZU (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/aVR1Ar5sXyidf9zSA"
+    },
+    {
+        "id": 2,
+        "name": "Flutu Bar",
+        "description": "Uma ótima opção para quem quer tocar aquele chop com vista para o rio. Com vista pro rio solimões, o flutu bar oferece muita cerveja, música e natureza. Ótimo lugar para reunir os amigos bater um papo e pedir uns drinks. Aberto de Quarta a Domingo: 10:00h às 18:00h",
+        "image": "/bares/flutuBar/FLUTUBAR.png",
+        "gallery": [
+            "/bares/flutuBar/FLUTUBAR (1).png",
+            "/bares/flutuBar/FLUTUBAR (2).png",
+            "/bares/flutuBar/FLUTUBAR (3).png",
+            "/bares/flutuBar/FLUTUBAR (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/RYM45THmWYATkgjU9"
+    },
+    {
+        "id": 3,
+        "name": "Bl Conveniência",
+        "description": "Uma ótima opção para quem quer ouvir uma boa música em um ambiente climátizado com luzes, que tem uma estética espetacular. Cabe toda família e amigos. ambiente todo aberto com local para jogar um vôlei, ver um jogo do seu time favorito e muito mais. conta com todos os tipos de bebidas com funcionamento de terça à domingo. ",
+        "image": "/bares/BLConv/BL.png",
+        "gallery": [
+            "/bares/BLConv/BL (1).jpg",
+            "/bares/BLConv/BL (2).png",
+            "/bares/BLConv/BL (3).png",
+            "/bares/BLConv/BL (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/pzCjXG4f5zwYJhz89"
+    },
+    {
+        "id": 4,
+        "name": "Estação Company",
+        "description": "Uma ótima opção para quem quer ouvir uma boa música com duas opções de ambiente, um mais fechado e outro ao ar livre. Cabe toda família e amigos. servem driks, chops e diferentes opções de bebidas para você tomar.",
+        "image": "/bares/Company/ESTAÇÃO.png",
+        "gallery": [
+            "/bares/Company/ESTAÇÃO (1).png",
+            "/bares/Company/ESTAÇÃO (2).png",
+            "/bares/Company/ESTAÇÃO (3).png",
+            "/bares/Company/ESTAÇÃO (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/edWYa7wsrhJWWJLC6"
+    }
+]

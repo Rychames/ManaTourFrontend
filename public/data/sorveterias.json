@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Doce gelado",
+        "description": "A loja se destaca pela variedade de sabores e pela qualidade dos produtos, oferecendo desde picolés artesanais até sorvetes e sobremesas geladas que fazem sucesso especialmente nos dias mais quentes. Além disso, o ambiente da Docegelado é acolhedor e ideal para um passeio em família ou com amigos, sendo um local perfeito para saborear essas delícias. A combinação de bom atendimento e opções refrescantes tornou a Docegelado uma das preferidas de quem está em Manacapuru, proporcionando uma experiência doce e refrescante no coração da cidade.",
+        "image": "/Sorveterias/DoceGelado/docegelado.png",
+        "gallery": [
+            "/Sorveterias/DoceGelado/docegelado (1).png",
+            "/Sorveterias/DoceGelado/docegelado (2).png",
+            "/Sorveterias/DoceGelado/docegelado (3).png",
+            "/Sorveterias/DoceGelado/docegelado (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/GReqoTBr5MtTdyu76"
+    },
+    {
+        "id": 2,
+        "name": "Canoa",
+        "description": "Conhecido por oferecer uma grande variedade de sorvetes e sobremesas geladas, que conquistaram o paladar dos moradores locais e turistas. A sorveteria é famosa por seus sabores deliciosos e pela qualidade dos produtos, com opções que vão desde sorvetes artesanais até açaís com diversos acompanhamentos, atendendo a todos os gostos. O ambiente é simples e acolhedor, tendo vista ao rio solimões ideal para quem deseja relaxar e saborear uma sobremesa refrescante, seja sozinho, em família ou com amigos. A Sorveteria Canoa se tornou um ponto de encontro popular na cidade, proporcionando momentos de prazer e refresco, especialmente em dias quentes.",
+        "image": "/Sorveterias/Canoa/canoa.jpg",
+        "gallery": [
+            "/Sorveterias/Canoa/canoa (1).jpg",
+            "/Sorveterias/Canoa/canoa (2).jpg",
+            "/Sorveterias/Canoa/canoa (3).jpg",
+            "/Sorveterias/Canoa/canoa.jpg"
+        ],
+        "location": "https://maps.app.goo.gl/sbqvowDcHQ27AEJH8"
+    }
+]

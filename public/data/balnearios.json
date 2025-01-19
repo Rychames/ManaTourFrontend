@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "SEMPRE VIVA",
+      "description": "O Balneário Sempre Viva,, é um destino turístico bastante popular, situado às margens do Rio Solimões. O local oferece infraestrutura para lazer, com áreas para banhos, piqueniques, churrasqueiras e espaços para atividades ao ar livre, tornando-se uma excelente opção para relaxamento e diversão. Além disso, o balneário é frequentemente utilizado para eventos e festas, especialmente em finais de semana e feriados. A tranquilidade e a beleza natural da região atraem tanto moradores quanto turistas que buscam um ambiente agradável para aproveitar o contato com a natureza",
+      "image": "/balnearios/SEMPRE VIVA.png",
+      "location": "https://www.google.com/maps?q=Balneário+Paraíso"
+    },
+    {
+      "id": 2,
+      "name": "SOSSEGO DO VOVÔ",
+      "description": "O Sossego do Vovô é um balneário e espaço de lazer, conhecido por ser um ponto de encontro familiar e recreativo. Situado às margens do Rio Solimões, oferece uma infraestrutura voltada para o descanso e diversão, com áreas para banho, churrasqueiras e espaços ao ar livre. O local é bastante procurado por moradores e visitantes que buscam um ambiente tranquilo e aconchegante, ideal para passar o dia em contato com a natureza. Além disso, o Sossego do Vovô é um espaço perfeito para confraternizações, sendo muito frequentado para festas e eventos familiares, especialmente aos finais de semana e feriados.",
+      "image": "/images/bathhouse2.jpg",
+      "location": "https://www.google.com/maps?q=Balneário+Tropical"
+    },
+    {
+      "id": 3,
+      "name": "KERU MAIS AGORA",
+      "description": "O Kero Mais Agora, bastante conhecido pelos moradores da região e visitantes que buscam um ambiente tranquilo e natural. Localizado às margens do Rio Solimões, o local oferece infraestrutura para lazer, com áreas para banho e espaços para confraternizações, como churrasqueiras e bancos. É um ponto popular para atividades ao ar livre, proporcionando momentos de descanso e diversão em meio à natureza. O Kero Mais Agora também é bastante procurado para eventos e festas, especialmente aos finais de semana e feriados, sendo uma ótima opção para quem deseja relaxar e aproveitar o contato com o rio e a paisagem local.",
+      "image": "/balnearios/KERU MAIS.png",
+      "location": "https://www.google.com/maps?q=Balneário+Tropical"
+    }
+  ]
+  

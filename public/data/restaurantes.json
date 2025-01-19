@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Espetinho de garagem",
+        "description": "Uma popular opção gastronômica, conhecida pelo ambiente descontraído e rústico, perfeito para reunir amigos e familiares. O cardápio é focado em espetos variados de churrasco e pratos relacionados, como espetos de carne, frango, linguiça e queijo. Além disso, são oferecidas opções como coxinhas empanadas, patinhas de caranguejo e pão de alho. Você também pode contar com drinks e hambúrgueres além de ótimos cenários para fotos. Funciona todos os dias das 11:00 às 23:00 horas.",
+        "image": "/restaurantes/espetinho/espetinho.jpg",
+        "gallery": [
+            "/restaurantes/espetinho/espetinho (1).jpg",
+            "/restaurantes/espetinho/espetinho (2).jpg",
+            "/restaurantes/espetinho/espetinho (3).jpg",
+            "/restaurantes/espetinho/espetinho (4).jpg"
+        ],
+        "location": "https://maps.app.goo.gl/umzVNyVrpDMspUfj9"
+    },
+    {
+        "id": 2,
+        "name": "Recanto do Guerreiro",
+        "description": "Destaca-se por suas carnes nobres preparadas na parrilla e uma variedade de pratos da culinária japonesa. O cardápio é amplo, incluindo entradas, hambúrgueres, pratos executivos. Além disso, o restaurante conta com uma seleção de bebidas, como refrigerantes, cervejas, chopp e drinks elaborados em seu bar de mixologia. O ambiente é propício para desfrutar de noites agradáveis, com destaque para a qualidade dos pratos e do atendimento. Funciona de terça a domingo, das 11h às 00h, e oferece serviços de delivery.",
+        "image": "/restaurantes/recanto/RECANTO (2).png",
+        "gallery": [
+            "/restaurantes/recanto/RECANTO (1).png",
+            "/restaurantes/recanto/RECANTO (3).png",
+            "/restaurantes/recanto/RECANTO.png",
+            "/restaurantes/recanto/RECANTO.jpeg"
+        ],
+        "location": "https://maps.app.goo.gl/mAj7pPioKYoUHkh56"
+    },
+    {
+        "id": 3,
+        "name": "Canto do Roxinho",
+        "description": "O canto do Roxinho é um restaurante que funciona tanto para almoço como para janta. Conta com um ambiente climatizado ótimo para se juntar com amigos e famílias é reconhecido por seu ambiente acolhedor e cardápio variado. Oferece  pratos típicos brasileiros até deliciosas sobremesas. Com atendimento de qualidade e opção de delivery, é uma parada obrigatória para quem busca boa comida e conforto na região.",
+        "image": "/restaurantes/roxinho/ROXINHO.png",
+        "gallery": [
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (1).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (2).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (3).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/pzCjXG4f5zwYJhz89"
+    },
+    {
+        "id": 4,
+        "name": "Tarê Sushi Bar",
+        "description": "Uma perfeita opção pra quem é rendido pela cultura japonesa e gosta de um sushi. Lá eles oferecem diferentes opções de sushi dês de Nigiri, Sashimi, Maki, Uramaki, Temaki e entre outros. Também conta com um lugar super confortável e aconchegante para reunir com amigos e familiares. Também funcionam com delivery.",
+        "image": "/restaurantes/tare/TARÊ.png",     
+        "gallery": [
+            "/restaurantes/tare/TARÊ (1).png",
+            "/restaurantes/tare/TARÊ (2).png",
+            "/restaurantes/tare/TARÊ (3).png",
+            "/restaurantes/tare/TARÊ (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/MoGGQekkTbv7JSG98"
+    },
+    {
+        "id": 5,
+        "name": "Toca do peixe",
+        "description": "A toca do peixe é uma perfeita opção para quem quer saborear um pouco mais da cultura amazônica, lá contêm variados pratos feitos com peixe, seja fritos, cozidos. com diversos peixes variados. Também contam com pratos tradicionais como strogonoff, carne assada e diversos outros tipos, além de saborosas sobremesas.",
+        "image": "/restaurantes/tocaDoPeixe/TOCA .png",
+        "gallery": [
+            "/restaurantes/tocaDoPeixe/TOCA (1).png",
+            "/restaurantes/tocaDoPeixe/TOCA (2).png",
+            "/restaurantes/tocaDoPeixe/TOCA (3).png",
+            "/restaurantes/tocaDoPeixe/TOCA.png"
+        ],
+        "location": "https://maps.app.goo.gl/qugoYmPgoSbTvzs18"
+    },
+    {
+        "id": 6,
+        "name": "Marina Vallentina",
+        "description": "Um ótimo lugar para conhecer um pouco da beleza amazônica, com pratos típicos do local, com um local perfeito para você tirar fotos e levar a família e amigos. Contêm um local muito confortável e com vista para o rio solimões. Também contêm dronks feitos na hora, shops com petiscos e muito mais.",
+        "image": "/restaurantes/mariaValentina/MARIAVALENTINA.png",
+        "gallery": [
+            "/restaurantes/mariaValentina/MARIAVALENTINA (1).png",
+            "/restaurantes/mariaValentina/mariavalentina (2).png",
+            "/restaurantes/mariaValentina/MARIAVALENTINA (3).png",
+            "/restaurantes/mariaValentina/MARIAVALENTINA.png"
+        ],
+        "location": "https://maps.app.goo.gl/JwBgim5YcAJqxG11A"
+    },
+    {
+        "id": 7,
+        "name": "Sabor da Roça",
+        "description": "É um restaurante que oferece uma experiência gastronômica voltada para pratos típicos da culinária regional, com foco em carnes grelhadas e pratos rústicos que remetem ao sabor da roça. O ambiente é descontraído e acolhedor, ideal para quem busca um lugar confortável para desfrutar de uma refeição saborosa, seja em família ou com amigos. O restaurante é conhecido pelo atendimento cordial e pela qualidade dos ingredientes, além de contar com um cardápio variado que atende tanto os apreciadores de carne quanto os que preferem opções da culinária local. Com uma atmosfera simples e acolhedora, o Steakbar Sabor da Roça é uma ótima opção para quem quer experimentar o autêntico sabor da Amazônia.",
+        "image": "/restaurantes/saborDaRoca/SABORDAROÇA.png",
+        "gallery": [
+            "/cafeterias/NoForno/NOFORNO (1).png",
+            "/cafeterias/NoForno/NOFORNO (2).png",
+            "/cafeterias/NoForno/NOFORNO (3).png",
+            "/cafeterias/NoForno/NOFORNO (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/3HqTbt6Y29uczVzT9"
+    },
+    {
+        "id": 8,
+        "name": "Mara´s Grill",
+        "description": "Conhecido por oferecer uma excelente experiência gastronômica, com foco em carnes grelhadas e pratos tradicionais da culinária regional. O ambiente é informal e acolhedor, ideal para refeições em família ou encontros com amigos. O Maragrill se destaca pelo sabor e qualidade de seus pratos, especialmente os grelhados, além de contar com uma seleção de acompanhamentos típicos da região. Com um atendimento simpático e uma atmosfera descontraída, é uma excelente opção para quem deseja saborear uma refeição deliciosa e aproveitar um momento de confraternização em um ambiente agradável.",
+        "image": "/restaurantes/MaraGrills/MARA.png",
+        "gallery": [
+            "/restaurantes/MaraGrills/maragrill (1).png",
+            "/restaurantes/MaraGrills/maragrill (2).png",
+            "/restaurantes/MaraGrills/maragrill (3).png",
+            "/restaurantes/MaraGrills/maragrill.png"
+        ],
+        "location": "https://maps.app.goo.gl/GYZUFHHH6WtdMQM28"
+    }
+]

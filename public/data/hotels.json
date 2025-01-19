@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Amazon experience",
+        "description": "Voltado para o ecoturismo e oferece aos seus hóspedes uma verdadeira imersão na cultura e na natureza da região amazônica. O hotel conta com quartos modernos e espaçosos, além de proporcionar atividades como passeios por áreas de selva e visitas a comunidades ribeirinhas. Ideal para quem deseja vivenciar uma experiência única na Amazônia, o hotel combina conforto com a rica biodiversidade local, oferecendo uma estadia inesquecível.",
+        "image": "/hotels/AmazonEXP/AMAZON MAIN.png",
+        "gallery": [
+            "/hotels/AmazonEXP/AMAZON1.png",
+            "/hotels/AmazonEXP/AMAZON2.png",
+            "/hotels/AmazonEXP/AMAZON3.png",
+            "/hotels/AmazonEXP/AMAZON4.png"
+        ],
+        "location": "https://maps.app.goo.gl/zkBDMqZiwHivF4XU7"
+    },
+    {
+        "id": 2,
+        "name": "Novo Hotel",
+        "description": "O Novo Hotel, localizado em Manacapuru, oferece um ambiente tranquilo e serviços de qualidade. As acomodações são bem equipadas, com ar-condicionado, TV a cabo e internet sem fio. Além disso, o hotel dispõe de uma área de convivência confortável, ideal para relaxar. O excelente atendimento e a localização central tornam o Novo Hotel uma ótima opção para quem busca conforto e praticidade na cidade.",
+        "image": "/hotels/NovoHotel/novohotelMAIN.png",
+        "gallery": [
+            "/hotels/NovoHotel/novohotel (1).png",
+            "/hotels/NovoHotel/novohotel (2).png",
+            "/hotels/NovoHotel/novohotel (3).png",
+            "/hotels/NovoHotel/novohotel (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/RYM45THmWYATkgjU9"
+    },
+    {
+        "id": 3,
+        "name": "Hotel Maranata",
+        "description": "O Hotel Maranata, em Manacapuru, é uma opção aconchegante e prática para quem visita a cidade, oferecendo acomodações simples, mas confortáveis, com serviços como Wi-Fi gratuito, ar-condicionado e TV a cabo. O restaurante do hotel serve pratos da culinária local e nacional. A estrutura também inclui estacionamento gratuito, garantindo comodidade aos hóspedes. É uma escolha ideal para quem busca um ambiente tranquilo e acessível, com boa localização.",
+        "image": "/hotels/Maranata/MARANATAMAIN.png",
+        "gallery": [
+            "/hotels/Maranata/MARANATA (1).png",
+            "/hotels/Maranata/MARANATA (2).png",
+            "/hotels/Maranata/MARANATA (3).png",
+            "/hotels/Maranata/MARANATA.png"
+        ],
+        "location": "https://maps.app.goo.gl/65a92stwSP6TyF8X8"
+    },
+    {
+        "id": 4,
+        "name": "TBS Hotel",
+        "description": "O TBS Hotel em Manacapuru é uma opção de hospedagem moderna e aconchegante. Oferecendo um ambiente confortável e serviços de qualidade para seus hóspedes. O hotel dispõe de acomodações bem equipadas, com ar-condicionado, Wi-Fi gratuito e TV a cabo, além de contar com uma estrutura que inclui restaurante, onde os visitantes podem desfrutar de pratos típicos da culinária regional e nacional. A localização estratégica do TBS Hotel permite fácil acesso aos principais pontos turísticos de Manacapuru e seus arredores, tornando-o uma excelente escolha para quem deseja explorar a região, seja a negócios ou lazer.",
+        "image": "/hotels/NovoHotel/novohotelMAIN.png",
+        "gallery": [
+            "/hotels/NovoHotel/novohotel (1).png",
+            "/hotels/NovoHotel/novohotel (2).png",
+            "/hotels/NovoHotel/novohotel (3).png",
+            "/hotels/NovoHotel/novohotel (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/KcjcFMtCAH26sQm38"
+    },
+    {
+        "id": 5,
+        "name": "Paraíso D´Angelo",
+        "description": "É uma opção de hospedagem em Manacapuru que combina conforto e uma atmosfera acolhedora, ideal para quem busca tranquilidade. O hotel oferece acomodações com ar-condicionado, Wi-Fi gratuito e TV, além de um restaurante que serve pratos da culinária local e nacional, proporcionando uma verdadeira experiência gastronômica. A estrutura do hotel inclui também uma área de lazer, como piscina, e estacionamento, garantindo uma estadia agradável e conveniente para os visitantes. Com sua localização estratégica, é uma excelente escolha tanto para turistas quanto para viajantes a negócios.",
+        "image": "/hotels/paraisoDangelo/PARAISOMAIN.png",
+        "gallery": [
+            "/hotels/paraisoDangelo/PARAISO (1).png",
+            "/hotels/paraisoDangelo/PARAISO (2).png",
+            "/hotels/paraisoDangelo/PARAISO (3).png",
+            "/hotels/paraisoDangelo/PARAISO (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/YdWeDs7Tj17wiR417"
+    },
+    {
+        "id": 6,
+        "name": "Alta Vista Amazon Lodge",
+        "description": "É uma opção de hospedagem voltada para quem busca uma experiência imersiva no coração da floresta amazônica. Localizado em uma área de natureza exuberante, o lodge oferece acomodações rústicas e confortáveis, com vistas panorâmicas para a selva. Os hóspedes podem desfrutar de atividades como passeios de barco pelos rios, trilhas na floresta e visitas a comunidades locais, proporcionando uma experiência autêntica da cultura e biodiversidade amazônicas. Com uma estrutura que inclui restaurante, piscina e guias especializados, o Alta Vista Amazon Lodge é ideal para quem deseja explorar a Amazônia de maneira única e memorável.",
+        "image": "/hotels/VistaAmazon/ALTAVISTA.png",
+        "gallery": [
+            "/hotels/VistaAmazon/ALTAVISTA (1).png",
+            "/hotels/VistaAmazon/ALTAVISTA (2).png",
+            "/hotels/VistaAmazon/ALTAVISTA (3).png",
+            "/hotels/VistaAmazon/ALTAVISTA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/vaE7ZoxLowB6U841A"
+    },
+    {
+        "id": 7,
+        "name": "Cirandeira Bela",
+        "description": "É uma pousada acolhedora em Manacapuru, ideal para quem busca um ambiente tranquilo e próximo à natureza. Com acomodações simples e confortáveis, a pousada oferece Wi-Fi gratuito, ar-condicionado e um restaurante que serve pratos típicos da culinária regional. O local também dispõe de áreas de lazer, como espaços ao ar livre, onde os hóspedes podem relaxar e aproveitar a paisagem local. Sua localização proporciona fácil acesso aos pontos turísticos da região, sendo uma boa escolha para quem deseja explorar a cidade e vivenciar a cultura amazonense de forma intimista e acessível.",
+        "image": "/hotels/CirandeiraBela/CIRANDEIRA.png",
+        "gallery": [
+            "/hotels/CirandeiraBela/CIRANDEIRA (1).png",
+            "/hotels/CirandeiraBela/CIRANDEIRA (2).png",
+            "/hotels/CirandeiraBela/CIRANDEIRA (3).png",
+            "/hotels/CirandeiraBela/CIRANDEIRA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/N3trkYUwYPumdwnq7"
+    },
+    {
+        "id": 8,
+        "name": "Casa Kauana",
+        "description": "É uma opção de hospedagem charmosa e aconchegante em, ideal para quem busca um ambiente tranquilo e familiar. Com acomodações simples, mas bem equipadas, oferece aos hóspedes conforto e privacidade. A casa conta com uma estrutura que inclui cozinha equipada, permitindo aos visitantes uma experiência mais independente e personalizada. Além disso, a localização da Casa Kauana é estratégica, proporcionando fácil acesso aos pontos turísticos locais e à natureza ao redor. É uma excelente escolha para quem procura uma estadia tranquila, com a possibilidade de desfrutar de momentos de lazer em um ambiente acolhedor e reservado.",
+        "image": "/hotels/CasaKauana/KAUANA.png",
+        "gallery": [
+            "/hotels/CasaKauana/KAUANA (1).png",
+            "/hotels/CasaKauana/KAUANA (2).png",
+            "/hotels/CasaKauana/KAUANA (3).png",
+            "/hotels/CasaKauana/KAUANA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/EyscsPtxbB1wpwoq6"
+    }
+]

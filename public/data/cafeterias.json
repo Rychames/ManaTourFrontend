@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Espaço Café",
+        "description": "Perfeita opção para quem quer ficar em dúvida no que pedir, o espaço café conta com diferentes opções de cafés, tapiocas, bolos, o famoso x-caboquinho e muito mais. Conta com lugar muito ventilado, sendo um ambiente perfeito para você reunir amigos e famílias. Também contam com delivery, então se você não poder ir, eles vão até você.",
+        "image": "/Cafeterias/espacoCafe/ESPAÇOCAFÉ.png",
+        "gallery": [
+            "/Cafeterias/espacoCafe/ESPAÇOCAFÉ (1).png",
+            "/Cafeterias/espacoCafe/ESPAÇOCAFÉ (2).png",
+            "/Cafeterias/espacoCafe/ESPAÇOCAFÉ (3).png",
+            "/Cafeterias/espacoCafe/ESPAÇOCAFÉ (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/bVAMRSLw6ted41Cg9"
+    },
+    {
+        "id": 2,
+        "name": "Café no Posto",
+        "description": "O café no posto é uma perfeita opção para quem quer algo mais reservado, para conversar. Conta com diferentes opções de pratos, dês de x-caboquinho, a cafés, capuccino e muito mais funcionam com delivery, então se você não poder ir, eles vão até você.",
+        "image": "/Cafeterias/CafeNoPosto/CAFÉNOPOSTO.png",
+        "gallery": [
+            "/Cafeterias/CafeNoPosto/CAFÉNOPOSTO (1).png",
+            "/Cafeterias/CafeNoPosto/CAFÉNOPOSTO (2).png",
+            "/Cafeterias/CafeNoPosto/CAFÉNOPOSTO (3).png",
+            "/Cafeterias/CafeNoPosto/CAFÉNOPOSTO (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/svf2Vu1wDhhaSHcW6"
+    },
+    {
+        "id": 3,
+        "name": "Recanto da família",
+        "description": "Que tal tomar um cafézinho ao ar livre? o Recanto da família conta com um ambiente super aberto. Fazem várias comidas típicas da região para você se aproximar mais da cultura da região. Também oferecem pratos prontos para você comprar e comer enquanto faz uma vigem.",
+        "image": "/cafeterias/RecantoFamilia/RECANTODAFAMILIA.png",
+        "gallery": [
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (1).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (2).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (3).png",
+            "/cafeterias/RecantoFamilia/RECANTODAFAMILIA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/pzCjXG4f5zwYJhz89"
+    },
+    {
+        "id": 4,
+        "name": "Sabor  & Cia",
+        "description": "A sabor e cia é um ótimo lugar para reunir a família e amigos. Contam com dois andares. você pode tomar seu café tanto na parte de cima, como na parte de baixo. contam com diferentes opções de pratos, bebidas, cafés, pães, bolos, sucos e muito mais. Funcionam de segunda à sexta.",
+        "image": "/cafeterias/Sabor&Cia/SABORECIA.png",
+        "gallery": [
+            "/cafeterias/Sabor&Cia/SABORECIA (1).png",
+            "/cafeterias/Sabor&Cia/SABORECIA (2).png",
+            "/cafeterias/Sabor&Cia/SABORECIA (3).png",
+            "/cafeterias/Sabor&Cia/SABORECIA (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/kXcKi2QWqZZUTtkN7"
+    },
+    {
+        "id": 5,
+        "name": "No forno",
+        "description": "No forno é ótima opção para você que é rendido pela estética dos lugares, conta com um perfeito lugar para você tirar fotos além de muito conforto e muito bolo. Fazem diferentes tipos de bolos e salgados para você provar e se deliciar. Ótimo lugar para reunir amigos e família.",
+        "image": "/cafeterias/NoForno/NOFORNO.png",
+        "gallery": [
+            "/cafeterias/NoForno/NOFORNO (1).png",
+            "/cafeterias/NoForno/NOFORNO (2).png",
+            "/cafeterias/NoForno/NOFORNO (3).png",
+            "/cafeterias/NoForno/NOFORNO (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/qugoYmPgoSbTvzs18"
+    }
+]

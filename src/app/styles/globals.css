@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'BodoniFLF Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BodoniFLF Regular'), url('../../../public/BodoniFLF-Roman.woff') format('woff');
+}
+
+*{
+    font-family: 'BonodiFLF Regular';
+}
