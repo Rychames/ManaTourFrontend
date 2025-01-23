@@ -142,7 +142,7 @@ export default function Home() {
 
 
             {/* Imagem 2 */}
-            <Link href="./pages/barsPage">
+            <Link href="./pages/pointsPage">
               <div className="relative group cursor-pointer">
                 <div className="overflow-hidden rounded-lg shadow-lg">
                   <img
@@ -151,7 +151,7 @@ export default function Home() {
                     className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center group-hover:bg-opacity-60 transition-all duration-300">
-                    <span className="text-white text-2xl font-semibold">Bares</span>
+                    <span className="text-white text-2xl font-semibold">Pontos T.</span>
                   </div>
                 </div>
               </div>
@@ -167,7 +167,7 @@ export default function Home() {
                     className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center group-hover:bg-opacity-60 transition-all duration-300">
-                    <span className="text-white text-2xl font-semibold">Restaurantes</span>
+                    <span className="text-white text-2xl font-semibold">Restaurantes e Bares</span>
                   </div>
                 </div>
               </div>

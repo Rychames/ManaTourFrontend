@@ -69,7 +69,9 @@ const MurasPage = () => {
                 {/* Texto com fundo branco */}
                 <div className="w-full md:w-1/2 flex items-center justify-center px-4 py-6">
                     <h1 className="bg-white text-[#910c11] text-lg md:text-xl lg:text-2xl font-bold py-6 px-6 md:px-10 rounded shadow-lg text-center">
-                        Legado dos Muras
+                        " Oh sai da frente que os pitiús chegaram"
+                        A Raça Mura é a fiel e animada torcida da Ciranda Guerreiros Mura. O nome "Pitiú" remete ao espírito guerreiro do povo Mura, que é celebrado nas apresentações da ciranda. A torcida é reconhecida por sua energia contagiante durante o Festival de Cirandas, onde participa ativamente com cantos, danças e apoio vibrante aos membros da agremiação. Sua força e paixão ajudam a manter a tradição viva, refletindo o orgulho da comunidade de Manacapuru
+
                     </h1>
                 </div>
             </div>

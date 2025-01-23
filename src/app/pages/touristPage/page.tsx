@@ -13,7 +13,7 @@ export default function TouristPage() {
     return (
         <main className="w-full bg-gray-100  flex flex-col items-center justify-center py-10">
             <h1 className="text-4xl font-bold text-gray-800 mb-8">
-                Escolha um Ponto Turístico
+                Escolha onde ir
             </h1>
 
             <div className="grid grid-cols-2 md:grid-cols-3 gap-6 px-4">
@@ -39,7 +39,7 @@ export default function TouristPage() {
                 <Link href="../pages/restaurantPage">
                     <div className="bg-white shadow-lg p-6 rounded-lg flex flex-col items-center justify-center cursor-pointer hover:bg-gray-50 transition">
                         <FaUtensils className="text-green-500 text-6xl mb-4" />
-                        <p className="text-lg font-semibold text-gray-700">Restaurantes</p>
+                        <p className="text-lg font-semibold text-gray-700">Restaurantes e Bares</p>
                     </div>
                 </Link>
 
@@ -52,7 +52,7 @@ export default function TouristPage() {
                 </Link>
 
                 {/* Sorveterias */}
-                <Link href="../pages/iceCreamPage">
+                <Link href="../pages/iceCreamPage"> 
                     <div className="bg-white shadow-lg p-6 rounded-lg flex flex-col items-center justify-center cursor-pointer hover:bg-gray-50 transition">
                         <FaIceCream className="text-pink-500 text-6xl mb-4" />
                         <p className="text-lg font-semibold text-gray-700">Sorveterias</p>
