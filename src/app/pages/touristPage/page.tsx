@@ -44,10 +44,10 @@ export default function TouristPage() {
                 </Link>
 
                 {/* Bares */}
-                <Link href="../pages/barsPage">
+                <Link href="../pages/pointsPage">
                     <div className="bg-white shadow-lg p-6 rounded-lg flex flex-col items-center justify-center cursor-pointer hover:bg-gray-50 transition">
                         <FaGlassCheers className="text-purple-500 text-6xl mb-4" />
-                        <p className="text-lg font-semibold text-gray-700">Bares</p>
+                        <p className="text-lg font-semibold text-gray-700">Pontos Turísticos</p>
                     </div>
                 </Link>
 

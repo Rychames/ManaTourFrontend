@@ -20,7 +20,7 @@ export default function BarsPage() {
   useEffect(() => {
     const fetchHotels = async () => {
       try {
-        const response = await axios.get("/data/bares.json");
+        const response = await axios.get("/data/pontos.json");
         setBars(response.data);
       } catch (error) {
         console.error("Erro ao carregar os dados dos hotéis:", error);
@@ -33,7 +33,7 @@ export default function BarsPage() {
   return (
     <main className="w-full bg-gray-100 min-h-screen py-10">
       <h1 className="text-4xl font-bold text-gray-800 text-center mb-8">
-        BARES
+        Pontos Turísticos
       </h1>
 
       <div className="container mx-auto px-4 space-y-8">

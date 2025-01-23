@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Praça 16 De Julho",
+        "description": "A Praça 16 de Julho, localizada em Manacapuru (AM), é um importante ponto de encontro para a comunidade local. Nomeada em referência a um evento histórico, a praça serve como espaço de lazer, convivência e realização de eventos culturais. Situada em uma área central, oferece infraestrutura como bancos, jardins e áreas para caminhada, sendo um local de grande movimentação e relevância na cidade.",
+        "image": "/pontos/praca16/Praça 16 de julho.jpg",
+        "gallery": [
+            "/pontos/praca16/Praça 16 de julho (1).jpg",
+            "/pontos/praca16/Praça 16 de julho (2).jpg",
+            "/pontos/praca16/Praça 16 de julho (1).jpg",
+            "/pontos/praca16/Praça 16 de julho (1).jpg"
+        ],
+        "location": "https://maps.app.goo.gl/fyGzXfruBorevpS66"
+    },
+    {
+        "id": 2,
+        "name": "Orla de Manacapuru",
+        "description": "A Orla de Manacapuru é uma área à beira do Rio Solimões, na cidade de Manacapuru (AM). É um ponto turístico e de lazer, onde moradores e visitantes podem desfrutar da vista para o rio, além de espaços para caminhadas, eventos e atividades recreativas. A orla é um importante centro de convivência, frequentemente utilizada para festividades e celebrações locais, refletindo a relação da cidade com o Rio Solimões.",
+        "image": "/pontos/orla/orla.png",
+        "gallery": [
+            "/pontos/orla/orla (1).png",
+            "/pontos/orla/orla (2).png",
+            "/pontos/orla/orla (3).png",
+            "/pontos/orla/orla (4).png"
+        ],
+        "location": "https://maps.app.goo.gl/LXrNgJF8erdD6WUp9"
+    },
+    {
+        "id": 3,
+        "name": "Praça da Cohabam",
+        "description": "A Praça da COHABAM está localizada no bairro COHABAM, em Manacapuru (AM). É um espaço público importante para a comunidade local, oferecendo um local de lazer, descanso e convivência para os moradores da região. A praça possui áreas verdes, bancos e espaços para caminhadas, sendo um ponto de encontro e socialização. Além disso, a praça é usada para eventos comunitários e celebrações. A COHABAM é um bairro residencial, e a praça contribui para o bem-estar dos moradores, proporcionando um ambiente agradável e acessível.",
+        "image": "/pontos/coabam/praçacohabam.jpg",
+        "gallery": [
+            "/pontos/coabam/praçacohabam (1).jpg",
+            "/pontos/coabam/praçacohabam (2).jpg",
+            "/pontos/coabam/praçacohabam (1).jpg",
+            "/pontos/coabam/praçacohabam (2).jpg"
+        ],
+        "location": "https://maps.app.goo.gl/MHVUP7wtG1Wqmcer6"
+    },
+    {
+        "id": 4,
+        "name": "Praça do Riachuelo",
+        "description": "A Praça Riachuelo em Manacapuru é um importante espaço público, localizado no centro da cidade. É um ponto de lazer e convivência, com áreas arborizadas e bancos, sendo também usada para eventos e festividades locais. A praça é um local de fácil acesso e grande movimento, proporcionando qualidade de vida para os moradores.",
+        "image": "/pontos/riachuelo/RiachueloMain.jpeg",
+        "gallery": [
+            "/pontos/riachuelo/Riachuelo.jpeg",
+            "/pontos/riachuelo/Riachuelo 1.jpeg",
+            "/pontos/riachuelo/Riachuelo 2.jpeg",
+            "/pontos/riachuelo/Riachuelo 3.jpeg"
+        ],
+        "location": "https://maps.app.goo.gl/gH4xC6YQEvbobKBQ7"
+    }
+]
