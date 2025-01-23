@@ -91,9 +91,9 @@ export default function CulturePage() {
                     {/* Imagem maior e centralizada */}
                     <div className="w-full md:w-1/2 flex justify-center">
                         <img
-                            src="/CulturePage/guerreiros página cultura.jpg"
+                            src="/CulturePage/Sla.jpg"
                             alt="Festival Folclórico"
-                            className="w-full md:w-[450px] h-auto object-cover rounded shadow-lg"
+                            className="w-full md:w-[550px] h-auto object-cover rounded shadow-lg"
                         />
                     </div>
 
